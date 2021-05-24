@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/configurator_file/pom.xml" />
+        <option value="$PROJECT_DIR$/extern_configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/inject/pom.xml" />
       </list>
     </option>
   </component>
