@@ -1,0 +1,15 @@
+user:
+     userName : 李白
+     age: 18
+     birthday: 2010/01/02
+#     hobbies:
+#       - 唱歌
+#       - 挑我
+#     girlFriends:
+#        18: libai
+#        23: cvfeea
+     hobbies: [唱歌,跳舞]
+     girlFriends: {18: libai,23: cvfeea}
+     address:
+       postcode: 12
+       location: ${random.value}

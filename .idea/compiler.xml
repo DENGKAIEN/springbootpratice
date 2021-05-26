@@ -7,10 +7,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="inject" />
         <module name="configurator_file" />
         <module name="extern_configuration" />
-        <module name="inject" />
-        <module name="Pratice" />
       </profile>
     </annotationProcessing>
   </component>
